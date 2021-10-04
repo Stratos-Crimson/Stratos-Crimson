@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stratos-Crimson
-- 👀 I’m interested in Java and Computer Science
+- 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open source projects that involve java
 - 📫 How to reach me, you can email me at stratoscrimson@protonmail.com
